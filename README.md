@@ -93,4 +93,4 @@ Analytics**, with a focus on **tourism and hospitality analytics**. I am
 learning data analysis step by step — Excel, SQL, statistics, and Power BI —
 and sharing my journey openly.
 
-🔗 Connect with me on LinkedIn: *(add your LinkedIn link here)*
+🔗 Connect with me on LinkedIn: *(www.linkedin.com/in/dr-pankaj-sharma-75809b1b)*
